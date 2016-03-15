@@ -13,7 +13,7 @@ title('Electricity wave signal')
 % % figure
 % % plot(t,x2)
 % % dw = 1;
-% % fLim = 15000-1;    %频率上下限
+% % fLim = 15000-1;    %脝碌脗脢脡脧脧脗脧脼
 % % w = 0 : dw : fLim;
 % x3 = CTFT(x2,t,w);
 % figure
